@@ -1,0 +1,4 @@
+Gitリポジトリの作成
+リポジトリとread.mdの作成
+Gitがむつかしい
+dajihdaihdaikgi
